@@ -1,0 +1,8 @@
+span.welcome {
+  background-color: rgb(61, 136, 54);
+  color: rgb(238, 208, 208);
+  padding: 15px;
+}
+.logoImg img {
+  width: 5em;
+}
